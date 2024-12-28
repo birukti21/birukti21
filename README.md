@@ -1,5 +1,5 @@
+![logo](https://github.com/birukti21/birukti21/blob/main/4sxzaeev.png)
 
-<img src="https://github.com/birukti21/birukti21/blob/main/coding-neon-iconprogramming-elements-of-browser-set-simple-icon-for-websites-web-design-mobile-app-info-graphics-isolated-on-brick-wall_549897-2465.jpg" alt="logo" width="1000" height="500">
 
 <h1 align="center">Hi 👋, I'm biruktawit zemedkun</h1>
 <h3 align="center">Engineering Solutions for Real-World Problems</h3>
